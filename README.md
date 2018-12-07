@@ -1,0 +1,3 @@
+# Learning Vue
+
+Following Vue tuto with slight modifications from the official website, plain JS, without Babel, Webpack ...
